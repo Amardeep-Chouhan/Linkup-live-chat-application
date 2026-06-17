@@ -2,8 +2,6 @@
 
 A modern real-time chat application built with **React, Node.js, MongoDB, and Socket.IO**. LinkUp enables seamless one-to-one and group conversations with instant message delivery, typing indicators, and real-time online status updates.
 
-![LinkUp Banner](./assets/banner.png)
-
 ---
 
 ## Features
@@ -45,7 +43,7 @@ A modern real-time chat application built with **React, Node.js, MongoDB, and So
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 LinkUp/
@@ -65,7 +63,7 @@ LinkUp/
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### 1. Clone the Repository
 
@@ -92,7 +90,7 @@ npm install
 
 ---
 
-## 🔑 Environment Variables
+## Environment Variables
 
 Create a `.env` file inside the backend directory:
 
@@ -108,7 +106,7 @@ NODE_ENV=development
 
 ---
 
-## ▶️ Run the Application
+## Run the Application
 
 ### Start Backend
 
@@ -142,7 +140,7 @@ npm start
 
 ---
 
-## 🔥 Core Functionalities
+## Core Functionalities
 
 * Real-time socket connection management
 * Instant message delivery
@@ -154,7 +152,7 @@ npm start
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 Add your application screenshots here.
 
@@ -204,7 +202,7 @@ git push origin feature-name
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
 
